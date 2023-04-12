@@ -1,0 +1,11 @@
+body {
+  background-image: url("pineapple.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+rect {
+  fill: rgba(128, 128, 128, 0.3);
+  stroke: #fff;
+  stroke-width: 2px;
+}
